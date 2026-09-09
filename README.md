@@ -23,25 +23,6 @@ ZeCrystal is a FiveM development brand focused on creating **modern, optimized a
 
 Every resource is designed with attention to performance, usability and visual quality.
 
----
-
-## 📻 Featured Resource
-
-### Crystal RadioList
-
-A modern and optimized radio management system built for FiveM.
-
-**Features**
-
-- 🩵 Modern Cyan UI
-- 📡 Radio channels & rooms
-- 👮 Department support
-- 🆔 Callsigns & player information
-- 🎙️ Radio activity indicators
-- ⚡ Lightweight & optimized
-- 🔧 Easy configuration
-- 🔄 **QBCore support**
-- 🔄 **ESX support**
 
 ---
 
@@ -54,7 +35,6 @@ A modern and optimized radio management system built for FiveM.
 | Python | Development & Automation |
 | HTML | UI Development |
 | CSS | Modern UI / NUI |
-| FiveM | Resource Development |
 | QBCore | Framework Integration |
 | ESX | Framework Integration |
 
@@ -76,8 +56,7 @@ A modern and optimized radio management system built for FiveM.
 
 | Resource | Framework | Status |
 |---|---|---|
-| 📻 Crystal RadioList | QBCore / ESX | 🟢 Available |
-| 💎 More Crystal Systems | FiveM | 🟡 Coming Soon |
+| 💎 Fivem Crystal Systems | FiveM | 🟡 Coming Soon |
 
 ---
 
